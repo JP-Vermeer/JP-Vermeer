@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JP-Vermeer
+- my main github acct is thevermeer but I have this second account for testing
+- I am a staff engineer at Kira Systems / Litera
+- I have been a professional developer for 25 amazing years
